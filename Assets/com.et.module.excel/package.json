@@ -1,0 +1,12 @@
+{
+    "name": "com.et.module.excel",
+    "displayName": "ET Module Excel",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "description": "ET Module Excel",
+    "keywords": ["et", "game-engine", "unity3d-framework"],
+    "dependencies": {
+		"com.et.thirdparty": "https://github.com/liusujin/com.et.thirdparty.git#5.0.2",
+		"com.et.thirdparty": "https://github.com/liusujin/com.et.thirdparty.git#5.0.0"
+	}
+}
