@@ -292,6 +292,24 @@
     <Reference Include="JetBrains.Rider.Unity.Editor.Plugin.Repacked">
       <HintPath>E:/UPM/com.et.module.excel/Library/PackageCache/com.et.model@2fc678b247e27cc302fc3dd3c3cec7c08f0c7d8f/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
     </Reference>
+    <Reference Include="I18N.Rare">
+      <HintPath>E:/UPM/com.et.module.excel/Assets/com.et.module.excel/Plugins/I18N.Rare.dll</HintPath>
+    </Reference>
+    <Reference Include="I18N">
+      <HintPath>E:/UPM/com.et.module.excel/Assets/com.et.module.excel/Plugins/I18N.dll</HintPath>
+    </Reference>
+    <Reference Include="I18N.Other">
+      <HintPath>E:/UPM/com.et.module.excel/Assets/com.et.module.excel/Plugins/I18N.Other.dll</HintPath>
+    </Reference>
+    <Reference Include="I18N.MidEast">
+      <HintPath>E:/UPM/com.et.module.excel/Assets/com.et.module.excel/Plugins/I18N.MidEast.dll</HintPath>
+    </Reference>
+    <Reference Include="I18N.CJK">
+      <HintPath>E:/UPM/com.et.module.excel/Assets/com.et.module.excel/Plugins/I18N.CJK.dll</HintPath>
+    </Reference>
+    <Reference Include="I18N.West">
+      <HintPath>E:/UPM/com.et.module.excel/Assets/com.et.module.excel/Plugins/I18N.West.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>E:/UPM/com.et.module.excel/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
